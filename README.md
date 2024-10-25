@@ -1,8 +1,6 @@
-## Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nada, I am currently Studying FrontEnd Developement at HackYourFuture Copenhagen, Denmark 🇩🇰.
-
-- 🔭 Currently available to join a project, or internship!
-- 🌱 Learning a lot from [HackYourFuture Denmark](https://www.hackyourfuture.dk)
-
+👋 Hi there, I'm Nada Jrad!
+Full-Stack Developer | Based in Copenhagen, Denmark 🇩🇰
+💻 I transitioned from civil engineering to full-stack development and have a strong foundation in ReactJS, NextJS, JavaScript, NodeJS, and MySQL. I’m passionate about coding, problem-solving, and helping others grow through mentoring.
 ### Connect with me
 
 [<img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github" />](https://github.com/NadaJrad)
@@ -19,4 +17,52 @@
 [<img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs" />](https://nodejs.org/en)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" title="Mysql" />](https://mysql.com)
+
+🛠️ Tech Stack
+Frontend: HTML5, CSS, JavaScript, ReactJS, NextJS, TypeScript
+Backend: NodeJS, ExpressJS
+Database: MySQL
+Version Control: Git
+
+📈 Experience
+Teacher Assistant at HackYourFuture (May 2024 – Present)
+Assisting aspiring developers with code reviews, problem-solving, and coding challenges.
+
+Internship at Tunisie Telecom (Jul 2018 - Sep 2018, Jul 2019 - Sep 2019)
+Worked with mobile networks, internet services, and network optimization.
+
+Here’s a README file with emojis to give it a friendly and professional touch for your GitHub profile:
+
+👋 Hi there, I'm Nada Jrad!
+Full-Stack Developer | Based in Copenhagen, Denmark 🇩🇰
+💻 I transitioned from civil engineering to full-stack development and have a strong foundation in ReactJS, NextJS, JavaScript, NodeJS, and MySQL. I’m passionate about coding, problem-solving, and helping others grow through mentoring.
+
+🛠️ Tech Stack
+Frontend: HTML5, CSS, JavaScript, ReactJS, NextJS, TypeScript
+Backend: NodeJS, ExpressJS
+Database: MySQL
+Version Control: Git
+📈 Experience
+Teacher Assistant at HackYourFuture (May 2024 – Present)
+Assisting aspiring developers with code reviews, problem-solving, and coding challenges.
+
+Internship at Tunisie Telecom (Jul 2018 - Sep 2018, Jul 2019 - Sep 2019)
+Worked with mobile networks, internet services, and network optimization.
+
+🌱 Currently Learning
+Exploring Vue.js and enhancing my skills in full-stack development to grow and take on new challenges!
+
+📚 Projects
+Check out some of my recent projects:
+
+MealShare App - Oct 2024 🍽️
+Keeper App - Aug 2024 📝
+Drum Kit App - Jul 2024 🥁
+Dice App - Jul 2024 🎲
+🌍 Languages
+English 🇺🇸
+French 🇫🇷
+Arabic 🇹🇳
+Danish (beginner) 🇩🇰
+
 
