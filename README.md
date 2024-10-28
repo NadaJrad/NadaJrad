@@ -31,11 +31,6 @@ Assisting aspiring developers with code reviews, problem-solving, and coding cha
 Internship at Tunisie Telecom (Jul 2018 - Sep 2018, Jul 2019 - Sep 2019)
 Worked with mobile networks, internet services, and network optimization.
 
-Here’s a README file with emojis to give it a friendly and professional touch for your GitHub profile:
-
-👋 Hi there, I'm Nada Jrad!
-Full-Stack Developer | Based in Copenhagen, Denmark 🇩🇰
-💻 I transitioned from civil engineering to full-stack development and have a strong foundation in ReactJS, NextJS, JavaScript, NodeJS, and MySQL. I’m passionate about coding, problem-solving, and helping others grow through mentoring.
 
 🛠️ Tech Stack
 Frontend: HTML5, CSS, JavaScript, ReactJS, NextJS, TypeScript
